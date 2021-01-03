@@ -16,5 +16,5 @@ You can find a brief summary of the files available in this repository below:
     * Inputs: complaints_sample.csv
     * Outputs: this file produces a wide array of .csv and .png outputs containing the tables and graphics used in this report. These files can all be found in the “Tables_Graphics” sub-folder in the repository.
         * Note: the code chunks that produce these outputs are currently commented out to avoid creating unexpected files on the user’s machine.
-*Text_Analysis_Consumer_Complaints_Report.pdf: final written report summarizing the key findings from the analysis
+* Text_Analysis_Consumer_Complaints_Report.pdf: final written report summarizing the key findings from the analysis
 
